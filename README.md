@@ -8,7 +8,8 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://media.giphy.com/media/3ov9kbuQg8ayvoYGsw/giphy.gif" alt="Engineering Boy" />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Engineering Boy" />
+
 
 ###
 
